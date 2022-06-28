@@ -7,6 +7,7 @@
 - [Shashwat Shah](https://github.com/shashwat-shah)
 - [Megha Juneja](https://github.com/mjunej)
 - [The Singularity is Near](https://github.com/standardAI)
+- [Henry Kofi Brandoh](https://github.com/henryhkb)
 - [Nitinram Velraj] (https://github.com/nitinramvelraj)
 - [Mark Timothy Advento] (https://github.com/markadv/)
 - [Sami Amjid Khan] (https://github.com/samiamjidkhan/)
